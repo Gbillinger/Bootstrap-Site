@@ -1,0 +1,18 @@
+li img{
+	width: 10em;
+}
+
+form {
+	padding-left: 19em;
+	width: 50em;
+}
+
+i {
+	color: white;
+}
+
+.container .row button {
+	background: #0d6efd;
+	border-width: .3em;
+	border-color: #025bde;
+}
